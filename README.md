@@ -5,4 +5,4 @@
 
 
 ## PERT/CPM圖
-! [PERT/CPM] (PERT.jpg)
+! [logo] (PERT.jpg "PERT/CPM")
