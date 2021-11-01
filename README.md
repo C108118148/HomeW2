@@ -5,4 +5,4 @@
 
 
 ## 1.PERT/CPM圖
-! [PERT](PERT.jpg "PERT/CPM")
+![PERT](PERT.jpg "PERT/CPM")
