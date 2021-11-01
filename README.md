@@ -4,5 +4,5 @@
 
 
 
-## PERT/CPM圖
-! [] (PERT.jpg "PERT/CPM")
+## 1.PERT/CPM圖
+! [](PERT.jpg "PERT/CPM")
